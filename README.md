@@ -1,8 +1,7 @@
 # Gterm
-[![GitHub Release](https://img.shields.io/github/release/zjayers/gterm.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/gterm.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/gterm.svg?style=flat)](https://github.com/zjayers/gterm/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/gterm.svg?style=flat)](https://github.com/zjayers/gterm/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/gterm.svg?maxAge=25000)](https://github.com/zjayers/gterm/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/gterm/blob/master/LICENSEs)
 
 ## Description
 
